@@ -1,0 +1,47 @@
+.page-header {
+    background-color: #240be1d8;
+    margin-top: 0;
+    padding: 10px 10px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #3dfe71fd;
+    font-size: 55px;
+    text-decoration-style: dotted;
+}
+
+.content {
+    margin-left: 45px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #7b2193;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #5c17a6;
+    float: inline-start;
+    list-style-position: 32px;
+    margin-left: 28rem;
+}
+
+.post {
+    margin-bottom: 60px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #000000;
+}
+
